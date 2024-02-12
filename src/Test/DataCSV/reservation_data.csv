@@ -1,0 +1,7 @@
+3,1,100,Tue Apr 26 2022,Wed Apr 27 2022,1,1,0,"[True, True, True, False, False]",79,True
+4,3,311,Tue Apr 26 2022,Wed Apr 27 2022,1,1,0,"[True, True, True, True, True]",93,True
+5,3,010,Fri Apr 29 2022,Sat Apr 30 2022,1,1,0,"[False, False, True, True, False]",58.65,True
+6,3,010,Wed Apr 27 2022,Fri Apr 29 2022,2,1,0,"[True, False, False, False, False]",79.9,True
+7,3,010,Mon Apr 25 2022,Tue Apr 26 2022,1,1,0,"[True, False, False, False, False]",39.95,True
+8,3,002,Wed Apr 20 2022,Sat Apr 30 2022,10,1,0,"[False, True, True, False, False]",612.0,True
+9,3,401,Sat Jan 1 2022,Thu May 5 2022,124,1,0,"[False, False, False, False, False]",4216.0,True
