@@ -1,5 +1,3 @@
-# Y2_2022_06955
-
 # Y2 Hotel Reservation System
 
 ## Introduction
